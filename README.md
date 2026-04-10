@@ -18,6 +18,21 @@ Heartwins is a premium, handcrafted chocolate brand based in Deoghar, Jharkhand.
 
 ---
 
+## 📖 Our Story
+Heartwins started in a small kitchen in Deoghar, Jharkhand, born from a simple passion for crafting chocolates that bring smiles. What began as a weekend hobby quickly became a purpose: to craft chocolates that don't just taste extraordinary, but carry emotion in every bite. Today, Heartwins ships across Jharkhand and beyond, and every piece is still made by hand with love and care.
+
+> "We don't mass-produce. We hand-pour love into every mold."
+
+---
+
+## 🗺️ Our Journey
+- **2022: The First Batch** — Heartwins makes the first 50 bars in a home kitchen in Deoghar.
+- **2023: Going Online** — Expanding reach by taking orders online and shipping across Jharkhand.
+- **2024: Growing Love** — Introducing bouquets, hampers, and festive specials for every occasion.
+- **2025: Hearts Won!** — Hundreds of happy customers and counting across India.
+
+---
+
 ## 🛠️ Tech Stack
 
 - **Framework**: [React 19](https://react.dev/)
