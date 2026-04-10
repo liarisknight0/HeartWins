@@ -1,16 +1,85 @@
-# React + Vite
+# 🍫 Heartwins — Handcrafted Chocolates
+> **One Bite for Someone Special**
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Heartwins is a premium, handcrafted chocolate brand based in Deoghar, Jharkhand. This website is a modern, interactive showcase of our artisanal chocolates, designed to provide a "melt-in-your-mouth" digital experience.
 
-Currently, two official plugins are available:
+![Heartwins Banner](https://raw.githubusercontent.com/liarisknight0/HeartWins/main/public/images/logo.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎭 **Rich Animations**: Smooth transitions and interactive elements using **Framer Motion** and **GSAP**.
+- 🍫 **Product Showcase**: Explore our curated range of Dark, Milk, White, and Seasonal chocolates.
+- 🛠️ **The Craft**: A visual journey through our 6-stage chocolate-making process — from Bean Selection to Packaging.
+- 💝 **Occasion-Based Gifting**: Specialized hampers and bouquets for Birthdays, Anniversaries, Diwali, and more.
+- 📱 **Fully Responsive**: A premium experience across all devices, from mobile to desktop.
+- 🧪 **Glassmorphic UI**: Modern aesthetic with blurred backgrounds and sleek gradients.
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+- **Framework**: [React 19](https://react.dev/)
+- **Bundler**: [Vite](https://vitejs.dev/)
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)
+- **Animations**: [Framer Motion](https://www.framer.com/motion/) & [GSAP](https://greensock.com/gsap/)
+- **Icons**: SVG & Lucide-style iconography
+
+---
+
+## 🚀 Getting Started
+
+To run this project locally:
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/liarisknight0/HeartWins.git
+   cd HeartWins
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. **Build for production**
+   ```bash
+   npm run build
+   ```
+
+---
+
+## 📦 Project Structure
+
+```text
+src/
+├── components/     # Reusable UI components (Navbar, ParticleBackground, etc.)
+├── sections/       # Main website sections (Hero, Products, Craft, etc.)
+├── data.js         # Centralized store for products, team, and testimonials
+├── App.jsx         # Main application entry point
+└── index.css       # Global styles and Tailwind directives
+```
+
+---
+
+## 📍 Contact & Ordering
+
+Located in **Bompass Town, Deoghar, Jharkhand**.
+
+- **Call to Order**: 9296874223 | 8809041530 | 7563960488
+- **Tagline**: *One Bite for Someone Special*
+
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+*Crafted with ❤️ by the Heartwins Team.*
